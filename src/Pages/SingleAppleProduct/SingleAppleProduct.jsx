@@ -14,9 +14,9 @@ function SingleAppleProduct() {
   console.log(productID);
 
   useEffect(() => {
-    const localjson= "/iphone.json"
+    const iphonejson= "/iphone.json"
     const backendApi = "http://localhost:3005/iphones"  
-    fetch(backendApi)
+    fetch(iphonejson)
       // Parse the fetched JSON string
       .then((res) => res.json()) //no semicolon here
       // Update the state product value with the fetched data

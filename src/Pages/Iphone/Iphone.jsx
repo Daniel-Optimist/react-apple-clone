@@ -8,7 +8,7 @@ function Iphone() {
   useEffect(() => {
     const iphonejson = "/iphone.json";
     const backendApi = "http://localhost:3005/iphones";
-    fetch(backendApi)
+    fetch(iphonejson)
     // fetch("/iphone.json")
       .then((response) => {
         if (!response.ok) {
