@@ -1,0 +1,284 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BHZhOIYXqwAK3qnbL82Z4Kof8-k",
+  "nextPageToken": "CAgQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 269,
+    "resultsPerPage": 8
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4mUWJ0pYVcfeg3F9-DnrDr7L1ic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1r3_pPkjOdg"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-30T15:18:36Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "M4 chip | No Sweat | Apple",
+        "description": "Effortless power. The new MacBook Pro with M4 is built for Apple Intelligence. It provides blazing fast performance without ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1r3_pPkjOdg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1r3_pPkjOdg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1r3_pPkjOdg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-30T15:18:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qCYr0gau-Twxezo4U3o8P5jbfZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JjpGvjy0Gxk"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-29T15:25:52Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing the all-new Mac mini | Apple",
+        "description": "The all-new Mac mini is five by five inches of pure power and purpose. With a wide array of ports, now on the front and back.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JjpGvjy0Gxk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JjpGvjy0Gxk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JjpGvjy0Gxk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-29T15:25:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "od7Hvvn9uzH4axn8qZVy09axTU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwZsHxLLlZ0"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-29T15:25:33Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing the all-new Mac mini | Apple | #Shorts",
+        "description": "The all-new Mac mini is five by five inches of pure power and purpose. With a wide array of ports, now on the front and back.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwZsHxLLlZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-29T15:25:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JA5b2a02-j3NmAWGfUxQNUu7mpQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TtFm9n3NVzE"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-29T15:20:31Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Mac mini Announcement - October 29",
+        "description": "Watch the special Apple announcement to learn more about the tinier, mightier, and even more versatile Mac mini — now with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TtFm9n3NVzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TtFm9n3NVzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TtFm9n3NVzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-29T15:20:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W9b-PCuMJ_RalrwgJmVTiz48hs4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A0BXZhdDqZM"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-28T17:03:30Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Intelligence | Create memory movies | iPhone 16",
+        "description": "Apple Intelligence on iPhone 16 is here. Just enter a description in the Photos app, and Apple Intelligence will find the best photos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A0BXZhdDqZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A0BXZhdDqZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A0BXZhdDqZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-28T17:03:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zbdsHGbAEHA4jTuE_EoNZqtF97Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3m0MoYKwVTM"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-28T17:03:45Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Intelligence | Writing Tools | iPhone 16",
+        "description": "Apple Intelligence on iPhone 16 is here, with Writing Tools to help your words sound more professional, friendly or more concise.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3m0MoYKwVTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3m0MoYKwVTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3m0MoYKwVTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-28T17:03:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yuG_H4pxWlSr7DYERPYUDTjmUr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eaB7nCdId0Y"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-28T15:29:46Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "iMac Announcement - October 28",
+        "description": "Watch the special Apple announcement to learn about the bold and colorful new iMac, now with Apple Intelligence. To watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaB7nCdId0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaB7nCdId0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaB7nCdId0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-28T15:29:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WUIL4KlKWLOwHdji-NoMbVbWqiE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eYJcUtVIB_g"
+      },
+      "snippet": {
+        "publishedAt": "2024-10-10T16:00:38Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "The Making of Submerged | Apple Vision Pro",
+        "description": "A behind the scenes look at Submerged, the first scripted film in Apple Immersive Video. Join Academy Award® Winners Edward ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eYJcUtVIB_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eYJcUtVIB_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eYJcUtVIB_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Apple",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-10-10T16:00:38Z"
+      }
+    }
+  ]
+}

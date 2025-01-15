@@ -1,0 +1,27 @@
+1. Section : youtubeVideoswrapper
+2. Div : allVideosWrapper
+3. div: container
+4. div: row 
+5. Div: TitleWrapper (h1= latest vido) : opening and closing div tags 
+6. Div: key= (index or vidid) col-sm-12 ( card for video)
+     *has sub-div : class: singleVideoWrapper 
+     *singleVideoWrapper class has 2 sub-div's  (
+
+	1) videothumbnail w/c has a link for the video
+	2) videoInfoWrapper ( this has 2 sub-divs)
+             i) videoTitle w/c also has a link for the video
+             ii) videoDescription 
+
+
+Containers are used to pad the content inside of them, and there are two container classes available: The .container class provides a responsive fixed width container. The .container-fluid class provides a full width container, spanning the entire width of the viewport.
+ 
+
+ width: calc(50% - 30px):
+     - 50%: This means the element will initially take up half of the width of its parent container. So if the parent is 800px wide, 50% would be 400px.
+     - 30px: This subtracts 30 pixels from the calculated 50% width. The subtraction is often used to account for padding, margins, or gaps between elements.
+
+    <p className="publish-date">
+                    Published on:{" "}
+                    {new Date(video.snippet.publishedAt).toLocaleDateString()}
+                  </p> 
+          

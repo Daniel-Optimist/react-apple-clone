@@ -1,0 +1,50 @@
+
+/* all YouTube Videos Wrapper */
+.allVideosWrapper {
+    background: #fff; /* Set a white background for the entire video section */
+    padding: 50px; /* Add padding (rt, lt, top and bottom) */
+}
+
+/* Individual Video Wrapper */
+.videoWrapper {
+    background: #fff; /* Set a white background for each video wrapper */
+    padding: 50px; /* ? reduce/remove padding for video wrapper */
+}
+
+/* Single Video Card */
+.singleVideoWrapper {
+    background: #f3f2f2; /* Light grey background for individual video cards */
+    box-shadow: 4px 0px 13px rgba(158,158, 158, 0.12); /* Add a subtle shadow for depth */
+    margin-bottom: 30px; /* Space between video cards */
+    max-height: 303px; /* Set a maximum height for the video cards */
+    overflow: hidden; /* Hide overflow content */
+}
+
+/* Video Info Wrapper */
+.videoInfoWrapper {
+    padding: 10px 20px; /* Padding for the video information area */
+    text-align: left; /* Align text to the left */
+    display: block; /* Ensure it is displayed in all screen sizes */
+}
+
+.videoDesc {
+    font-size: .6em; /* Smaller font size for the video description; compared to parent element's font size */
+    color: #676767; /* Set a grey color for the description text */
+}
+
+/* Video Title Link */
+.videoTitle a {
+    color: #000; /* Set the video title link color to black */
+}
+
+/* Media Query for larger screens */
+@media (min-width: 768px) {
+    .videoWrapper {
+        margin: 15px; /* Adjust margin for better spacing between videos */
+        width: calc(50% - 30px); /* Two videos per row on larger screens */
+    }
+    
+    .singleVideoWrapper {
+        margin: 15px; /* Add margin around each video card */
+    }
+}

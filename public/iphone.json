@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_url": "iphonese",
+      "product_name": "iphone SE ",
+      "description_id": 1,
+      "product_brief_description": "Love the power. Love the price.",
+      "product_description": "Compact design, Touch ID, A15 Bionic chip, 4.7-inch Retina HD display.",
+      "product_img": "https://tinyurl.com/y824sd7n",
+      "product_link": "https://www.apple.com/iphone-se/",
+      "price_id": 1,
+      "starting_price": "$429 ",
+      "price_range": "From $429 or $17.87/mo.per month for 24 mo.*"
+    },
+    {
+      "product_id": 2,
+      "product_url": "iphone14",
+      "product_name": "iphone 14 ",
+      "description_id": 2,
+      "product_brief_description": "Big and bigger.",
+      "product_description": "Mid-size OLED display, A15 Bionic chip, dual-camera system, 5G connectivity",
+      "product_img": "https://tinyurl.com/42srksmm",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-14",
+      "price_id": 2,
+      "starting_price": "$599",
+      "price_range": "From $599 or $24.95/mo. For 24 mo.*"
+    },
+    {
+      "product_id": 3,
+      "product_url": "iphone15",
+      "product_name": "iphone 15 ",
+      "description_id": 3,
+      "product_brief_description": "Newphoria.",
+      "product_description": "Advanced OLED display, A16 Bionic chip, triple-camera system, USB-C port.",
+      "product_img": "https://tinyurl.com/murkz5b8",
+      "product_link": "https://www.apple.com/shop/buy-iphone/iphone-15",
+      "price_id": 3,
+      "starting_price": "$699",
+      "price_range": "From $699 or $29.12/mo.per month for 24 mo."
+    }
+  ]
+}

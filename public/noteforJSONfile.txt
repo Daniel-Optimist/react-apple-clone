@@ -1,0 +1,13 @@
+There are two JSON files in the public folder 
+    1. Iphone.json : this is a json file for the iphone product we fetched from our database using postman 
+    2. phone.json : this is a json file for apple, samsung,sony, and onePlus ( demonstrated by biruk on filtering a phone by brand) ; I manually typed these while watching Biruk's demo 
+
+Steps for the Iphone.json routing page: 
+    1. copy and paste the iphone products json file you retrieved from the database using browser or postman (using this server endpoint: http://localhost:3005/iphones ) 
+    2. Go to components-->Pages-->Iphone-->Iphone.jsx and modify the url in the fetch( fetch("http://localhost:3005/iphones")) --> fetch(/iphone.json)
+    3. Also, Go to components-->Pages-->SingleAppleProduct-->SingleAppleProduct.jsx and modify the fetch( fetch("http://localhost:3005/iphones")) --> fetch(/iphone.json)
+
+    The iphone 14 image has been replaced with the one from tinyurl 
+     "product_img": "https://tinyurl.com/42srksmm" 
+     
+     "product_img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-14-blue-witb-202209?wid=344&hei=784&fmt=jpeg&qlt=90&.v=1660679135494",

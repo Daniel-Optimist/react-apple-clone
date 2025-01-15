@@ -1,0 +1,60 @@
+{"phones": [
+  {
+    "brand": "Apple",
+    "model": "iphone 14",
+    "release_year": 2022
+  },
+
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23",
+    "release_year": 2023
+  },
+  {
+    "brand": "Google",
+    "model": "Piexel 7 Pro",
+    "release_year": 2022
+  },
+
+  {
+    "brand": "OnePlus",
+    "model": "OnePlus 11",
+    "release_year": 2023
+  },
+
+  {
+    "brand": "Apple",
+    "model": "iphone 13",
+    "release_year": 2021
+  },
+
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "release_year": 2022
+  },
+
+  {
+    "brand": "Google",
+    "model": "Piexel 6",
+    "release_year": 2021
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia S IV",
+    "release_year": 2022
+  },
+
+  {
+    "brand": "Apple",
+    "model": "iphone 12",
+    "release_year": 2020
+  },
+
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "release_year": 2021
+  }
+]
+}
